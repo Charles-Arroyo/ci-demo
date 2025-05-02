@@ -1,3 +1,3 @@
 # CI Example
 
-Simple Node.js repo with test + lint GitHub Actions. 
+Simple Node.js repo with test + lint GitHub Actions.  
